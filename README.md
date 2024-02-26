@@ -1,2 +1,2 @@
-# Unity-Code
-Um repositório para hospedagem de códigos para jogos em Unity 2D
+# Aviso Leia antes de Usar o Código 
+Esses Códigos são especialmente feitos para ser usado no unity 2D, mas pode funcionar no 3D, mas não tenho certeza caso vc vê uma frase como essa **exemplo** significa que não é pra copiar lá pro Unity, pode ser uma informação o que vc deve fazer nesse Código para ele funcionar, lembrando que qualquer um pode usar os códigos que estão aqui, mas vc pode modificar se quiser
